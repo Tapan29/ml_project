@@ -127,5 +127,4 @@ This project is licensed under the MIT License.
 
 ## 🙋 Author
 
-**Your Name**  
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
+Tapan Singh Naruka
